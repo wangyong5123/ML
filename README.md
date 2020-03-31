@@ -1,3 +1,1 @@
 #machine learing
-
-EM SVM
